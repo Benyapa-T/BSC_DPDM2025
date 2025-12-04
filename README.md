@@ -27,6 +27,6 @@ Sec1 9 A.M.- 12 P.M. (Tue) / 4.30 P.M. - 6.30 P.M. (Thu)
 #### 📝 Lecture
 | Title | Description |
 | - | - |
-| Text Book | [Text Book]() |
-| Chapter 1: Introduction | [Introduction]() |
-| Chapter 2: Getting to Know Your Data	 | [Getting to Know Your Data]() |
+| Text Book | [Text Book](https://drive.google.com/file/d/1MloovghK6VK3Y5raqZjxN5Y8y_r8v1Qm/view?usp=drive_link) |
+| Chapter 1: Introduction | [Introduction](https://drive.google.com/file/d/1JA1N12XEToB-Rsy_NyrbwaHv9OsOswIu/view?usp=drive_link) |
+| Chapter 2: Getting to Know Your Data	 | [Getting to Know Your Data](https://drive.google.com/file/d/1QN7TT1UIlrqxkraEpegLLba8i2hI_USP/view?usp=drive_link) |
